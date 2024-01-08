@@ -1,0 +1,7 @@
+---
+token: telegram:bot_api_token
+downloader_path: yt-dlp
+base_url: http://your-server/url/prefix
+storage_dir: downloads/
+debug: false
+http_server: 127.0.0.1:8000
